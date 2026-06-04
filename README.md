@@ -27,7 +27,7 @@
 `r . bioconductor . minfi`
 
 **&gt; [Single Cell Pathology](https://github.com/NonStickFryingPan/Single-Cell-Pathology-Breast-Cancer-Replication)** - single-cell pathology landscape of breast cancer (Jackson et al.)  
-`jupyter . scanpy . seurat`
+`jupyter . r . survival`
 
 ---
 
