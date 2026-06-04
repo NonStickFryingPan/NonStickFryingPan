@@ -26,6 +26,9 @@
 **&gt; [DNA Methylation Analysis](https://github.com/NonStickFryingPan/DNA-Methylation-Data-Analysis)** - epigenetics and aging analysis  
 `r . bioconductor . minfi`
 
+**&gt; [Single Cell Pathology](https://github.com/NonStickFryingPan/Single-Cell-Pathology-Breast-Cancer-Replication)** - single-cell pathology landscape of breast cancer (Jackson et al.)  
+`jupyter . scanpy . seurat`
+
 ---
 
 i design things. i take pictures of things. i write and read and watch movies and listen to music. i like to build things and learn things.
