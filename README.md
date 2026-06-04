@@ -6,7 +6,7 @@
 ╚══════════════════════════════╝
 </pre>
 
-`builder . bioinfo . design`
+`build . learn . design`
 
 ---
 
@@ -28,7 +28,9 @@
 
 ---
 
-i design things. i take pictures of things. i write and read and watch movies and listen to music. i build things and earn things.
+i design things. i take pictures of things. i write and read and watch movies and listen to music. i build things and learn things and earn things.
+
+my name is luqman. my friends call me loki.
 
 ---
 
@@ -38,7 +40,7 @@ can reach me at **[linkedin.com/in/luqman-malik-7b16a3252](https://www.linkedin.
 
 <pre style="color: #888; font: 13px monospace; line-height: 1.3;">
 [NonStickFryingPan@github:~]$ whoami
-builder . bioinfo . design
+luqman / loki . build . learn . design
 [NonStickFryingPan@github:~]$
 </pre>
 
