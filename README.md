@@ -37,7 +37,7 @@ i design things. i take pictures of things. i write and read and watch movies an
 
 <div align="center">
 
-can reach me at **[linkedin](https://www.linkedin.com/in/luqman-malik-7b16a3252)**
+catch me at **[linkedin](https://www.linkedin.com/in/luqman-malik-7b16a3252)**
 
 <pre style="color: #888; font: 13px monospace; line-height: 1.3;">
 [NonStickFryingPan@github:~]$ whoami
