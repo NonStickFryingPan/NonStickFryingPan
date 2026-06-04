@@ -6,34 +6,40 @@
 ╚══════════════════════════════╝
 </pre>
 
-`full-stack · bioinfo · pixel pusher`
+`builder . bioinfo . design`
 
 ---
 
 </div>
 
-### ⎇ Projects
+### &gt; Projects
 
-**🎨 [Cureus](https://github.com/NonStickFryingPan/Cureus)** — XP Paint-styled streaming review site  
-`supabase • vite • tmdb`
+**&gt; [Cureus](https://github.com/NonStickFryingPan/Cureus)** - XP Paint styled streaming review site  
+`supabase . vite . tmdb`
 
-**🧬 [Exploring Spatial Transcriptomics](https://github.com/NonStickFryingPan/Exploring-Spatial-Transcriptomics)** — 10x Visium & Xenium data explorations  
-`jupyter • scanpy • squidpy`
+**&gt; [Exploring Spatial Transcriptomics](https://github.com/NonStickFryingPan/Exploring-Spatial-Transcriptomics)** - 10x Visium &amp; Xenium data explorations  
+`jupyter . scanpy . squidpy`
 
-**💊 [Antibiotic Discovery](https://github.com/NonStickFryingPan/Antibiotic-Discovery-Paper-Replication)** — Deep learning approach replication (Stokes et al.)  
-`python • keras • tensorflow`
+**&gt; [Antibiotic Discovery](https://github.com/NonStickFryingPan/Antibiotic-Discovery-Paper-Replication)** - deep learning approach replication (Stokes et al.)  
+`python . keras . tensorflow`
 
-**🧪 [DNA Methylation Analysis](https://github.com/NonStickFryingPan/DNA-Methylation-Data-Analysis)** — Epigenetics and aging analysis  
-`r • bioconductor • minfi`
+**&gt; [DNA Methylation Analysis](https://github.com/NonStickFryingPan/DNA-Methylation-Data-Analysis)** - epigenetics and aging analysis  
+`r . bioconductor . minfi`
+
+---
+
+i design things. i take pictures of things. i write and read and watch movies and listen to music. i build things and earn things.
 
 ---
 
 <div align="center">
 
+can reach me at **[linkedin.com/in/luqman-malik-7b16a3252](https://www.linkedin.com/in/luqman-malik-7b16a3252)**
+
 <pre style="color: #888; font: 13px monospace; line-height: 1.3;">
 [NonStickFryingPan@github:~]$ whoami
-full-stack developer & bioinformatics researcher
-[NonStickFryingPan@github:~]$ 
+builder . bioinfo . design
+[NonStickFryingPan@github:~]$
 </pre>
 
 </div>
