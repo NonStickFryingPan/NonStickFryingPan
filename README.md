@@ -14,7 +14,7 @@
 
 ### &gt; Projects
 
-**&gt; [Cureus](https://github.com/NonStickFryingPan/Cureus)** - XP Paint styled streaming review site  
+**&gt; [Cureus](https://github.com/NonStickFryingPan/Cureus)** - curated movie reviews  
 `supabase . vite . tmdb`
 
 **&gt; [Exploring Spatial Transcriptomics](https://github.com/NonStickFryingPan/Exploring-Spatial-Transcriptomics)** - 10x Visium &amp; Xenium data explorations  
