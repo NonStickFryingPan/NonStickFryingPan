@@ -28,9 +28,7 @@
 
 ---
 
-i design things. i take pictures of things. i write and read and watch movies and listen to music. i build things and learn things and earn things.
-
-my name is luqman. my friends call me loki.
+i design things. i take pictures of things. i write and read and watch movies and listen to music. i like to build things and learn things.
 
 ---
 
