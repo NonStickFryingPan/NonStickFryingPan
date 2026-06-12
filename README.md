@@ -17,6 +17,9 @@
 **&gt; [Exploring Spatial Transcriptomics](https://github.com/NonStickFryingPan/Exploring-Spatial-Transcriptomics)** - 10x Visium &amp; Xenium data explorations  
 `jupyter . scanpy . squidpy`
 
+**&gt; [Cureus](https://github.com/NonStickFryingPan/Cureus)** - curated movie reviews  
+`supabase . vite . tmdb`
+
 **&gt; [Antibiotic Discovery](https://github.com/NonStickFryingPan/Antibiotic-Discovery-Paper-Replication)** - deep learning approach replication (Stokes et al.)  
 `python . keras . tensorflow`
 
