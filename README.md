@@ -12,28 +12,85 @@
 
 </div>
 
-### &gt; Projects
+<div align="center">
 
-**&gt; [Veto](https://github.com/NonStickFryingPan/veto)** - a rubric-based hackathon judging platform  
-`supabase . vite`
+## &gt; Projects
 
-**&gt; [Exploring Spatial Transcriptomics](https://github.com/NonStickFryingPan/Exploring-Spatial-Transcriptomics)** - 10x Visium &amp; Xenium data explorations  
-`jupyter . scanpy . squidpy`
+</div>
 
-**&gt; [Cureus](https://github.com/NonStickFryingPan/Cureus)** - curated movie reviews  
-`supabase . vite . tmdb`
-
-**&gt; [Antibiotic Discovery](https://github.com/NonStickFryingPan/Antibiotic-Discovery-Paper-Replication)** - deep learning approach replication (Stokes et al.)  
-`python . keras . tensorflow`
-
-**&gt; [Reading](https://github.com/NonStickFryingPan/Reading)** - minimal RSS news aggregator  
-`flutter`
-
-**&gt; [DNA Methylation Analysis](https://github.com/NonStickFryingPan/DNA-Methylation-Data-Analysis)** - epigenetics and aging analysis  
-`r . bioconductor . minfi`
-
-**&gt; [Single Cell Pathology](https://github.com/NonStickFryingPan/Single-Cell-Pathology-Breast-Cancer-Replication)** - single-cell pathology landscape of breast cancer (Jackson et al.)  
-`jupyter . r . phenograph`
+<table align="center" cellpadding="12">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="https://github.com/NonStickFryingPan/veto">
+        <b>Veto</b>
+      </a>
+      <br>
+      <sub>a rubric-based hackathon judging platform</sub>
+      <br>
+      <code>supabase . vite</code>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://github.com/NonStickFryingPan/Exploring-Spatial-Transcriptomics">
+        <b>Exploring Spatial Transcriptomics</b>
+      </a>
+      <br>
+      <sub>10x Visium & Xenium data explorations</sub>
+      <br>
+      <code>jupyter . scanpy . squidpy</code>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://github.com/NonStickFryingPan/Cureus">
+        <b>Cureus</b>
+      </a>
+      <br>
+      <sub>curated movie reviews</sub>
+      <br>
+      <code>supabase . vite . tmdb</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="https://github.com/NonStickFryingPan/Antibiotic-Discovery-Paper-Replication">
+        <b>Antibiotic Discovery</b>
+      </a>
+      <br>
+      <sub>deep learning approach replication (Stokes et al.)</sub>
+      <br>
+      <code>python . keras . tensorflow</code>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://github.com/NonStickFryingPan/Reading">
+        <b>Reading</b>
+      </a>
+      <br>
+      <sub>minimal RSS news aggregator</sub>
+      <br>
+      <code>flutter</code>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://github.com/NonStickFryingPan/DNA-Methylation-Data-Analysis">
+        <b>DNA Methylation Analysis</b>
+      </a>
+      <br>
+      <sub>epigenetics and aging analysis</sub>
+      <br>
+      <code>r . bioconductor . minfi</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="https://github.com/NonStickFryingPan/Single-Cell-Pathology-Breast-Cancer-Replication">
+        <b>Single Cell Pathology</b>
+      </a>
+      <br>
+      <sub>single-cell pathology landscape of breast cancer (Jackson et al.)</sub>
+      <br>
+      <code>jupyter . r . phenograph</code>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
