@@ -14,7 +14,7 @@
 
 ### &gt; Projects
 
-**&gt; [Veto](https://github.com/NonStickFryingPan/veto)** - mobile-first rubric scoring for fast judging sessions  
+**&gt; [Veto](https://github.com/NonStickFryingPan/veto)** - a rubric-based hackathon judging platform  
 `supabase . vite`
 
 **&gt; [Exploring Spatial Transcriptomics](https://github.com/NonStickFryingPan/Exploring-Spatial-Transcriptomics)** - 10x Visium &amp; Xenium data explorations  
