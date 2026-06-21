@@ -14,7 +14,7 @@
 
 ### &gt; Projects
 
-**&gt; [Veto](https://github.com/NonStickFryingPan/veto)** - mobile-first rubric scoring for fast judging sessions
+**&gt; [Veto](https://github.com/NonStickFryingPan/veto)** - mobile-first rubric scoring for fast judging sessions  
 `supabase . vite`
 
 **&gt; [Exploring Spatial Transcriptomics](https://github.com/NonStickFryingPan/Exploring-Spatial-Transcriptomics)** - 10x Visium &amp; Xenium data explorations  
@@ -26,7 +26,7 @@
 **&gt; [Antibiotic Discovery](https://github.com/NonStickFryingPan/Antibiotic-Discovery-Paper-Replication)** - deep learning approach replication (Stokes et al.)  
 `python . keras . tensorflow`
 
-**&gt; [Reading](https://github.com/NonStickFryingPan/Reading)** - minimal RSS news aggregator
+**&gt; [Reading](https://github.com/NonStickFryingPan/Reading)** - minimal RSS news aggregator  
 `flutter`
 
 **&gt; [DNA Methylation Analysis](https://github.com/NonStickFryingPan/DNA-Methylation-Data-Analysis)** - epigenetics and aging analysis  
