@@ -6,13 +6,16 @@
 ╚══════════════════════════════╝
 </pre>
 
-`build . learn . design`
+`build . break . learn`
 
 ---
 
 </div>
 
 ### &gt; Projects
+
+**&gt; [Veto](https://github.com/NonStickFryingPan/veto)** - mobile-first rubric scoring for fast judging sessions
+`supabase . vite`
 
 **&gt; [Exploring Spatial Transcriptomics](https://github.com/NonStickFryingPan/Exploring-Spatial-Transcriptomics)** - 10x Visium &amp; Xenium data explorations  
 `jupyter . scanpy . squidpy`
@@ -23,15 +26,14 @@
 **&gt; [Antibiotic Discovery](https://github.com/NonStickFryingPan/Antibiotic-Discovery-Paper-Replication)** - deep learning approach replication (Stokes et al.)  
 `python . keras . tensorflow`
 
+**&gt; [Reading](https://github.com/NonStickFryingPan/Reading)** - minimal RSS news aggregator
+`flutter`
+
 **&gt; [DNA Methylation Analysis](https://github.com/NonStickFryingPan/DNA-Methylation-Data-Analysis)** - epigenetics and aging analysis  
 `r . bioconductor . minfi`
 
 **&gt; [Single Cell Pathology](https://github.com/NonStickFryingPan/Single-Cell-Pathology-Breast-Cancer-Replication)** - single-cell pathology landscape of breast cancer (Jackson et al.)  
 `jupyter . r . phenograph`
-
----
-
-i design things. i take pictures of things. i write and read and watch movies and listen to music. i like to build things and learn things.
 
 ---
 
