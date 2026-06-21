@@ -43,7 +43,7 @@ catch me at **[linkedin](https://www.linkedin.com/in/luqman-malik-7b16a3252)**
 
 <pre style="color: #888; font: 13px monospace; line-height: 1.3;">
 [NonStickFryingPan@github:~]$ whoami
-luqman / loki . build . learn . design
+luqman / loki . designer . writer . [grugBrainDev](https://grugbrain.dev/)
 [NonStickFryingPan@github:~]$
 </pre>
 
